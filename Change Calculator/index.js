@@ -1,3 +1,7 @@
+function promptUser(msg,typ) {
+    
+}
+
 function main() {
     var coin = {
         Penny: 0.01,
